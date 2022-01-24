@@ -1,0 +1,54 @@
+{
+    "workbench.editor.enablePreview": false,
+    "editor.smoothScrolling": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "oneDarkPro.vivid": true,
+    "editor.lineHeight": 36,
+    "editor.mouseWheelZoom": true,
+    "editor.fontFamily": " Source Code Pro, Fira Code, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.tabSize": 2,
+    "blade.format.enable": true,
+    "material-icon-theme.activeIconPack": "vue",
+    "material-icon-theme.folders.theme": "none",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "workbench.colorTheme": "Mayukai Alucard",
+    "workbench.iconTheme": "Monokai Pro (Filter Octagon) Icons",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorStyle": "block",
+    "css.validate": false, // Disable css built-in lint
+    "stylelint.enable": true,
+    "todo-tree.tree.showScanModeButton": false,
+    "editor.fontWeight": null,
+    "editor.fontSize": 17,
+    "editor.minimap.enabled": false,
+    "html.format.wrapLineLength": 200,
+    "vetur.format.defaultFormatter.html": "prettyhtml",
+    "[blade]": {
+        "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "powermode.enabled": true, // Enable sytlelint
+}
